@@ -1,0 +1,1 @@
+start cmd.exe /c "python .\encry.py & .\pass_plain.txt"
