@@ -1,0 +1,1 @@
+Script que se ejecuta por un .bat que guarda datos encriptados. Al ejecutarlo lee el txt passwd y desencripta su contenido con la clave de encriptado que está guardada en las primeras lineas del archivo.
