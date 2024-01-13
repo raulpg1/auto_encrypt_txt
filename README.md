@@ -1,4 +1,4 @@
-** Script que guarda datos encriptados en un archivo de texto. **
+## Script que guarda datos encriptados en un archivo de texto.
   -  Se ejecuta el archivo .bat para ejecutar el script
   -  Al ejecutar, se lee la primera linea del script que tiene la clave de encriptado
   -  Se desenccriptan los datos y se genera un nuevo txt temporal con los datos desencriptados
